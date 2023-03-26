@@ -1,0 +1,22 @@
+.logomain {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 8vh;
+  }
+  
+  .nav h1 {
+    letter-spacing: 0.03em;
+    margin-top: 1px;
+    font-size: 5vh;
+  }
+  
+  .nav {
+    background-color: #000000;
+    height: 8vh;
+    width: 100vw;
+    position: fixed;
+    text-align: center;
+    color: white;
+    z-index: 2;
+  }
